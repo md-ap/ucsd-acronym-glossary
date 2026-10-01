@@ -320,4 +320,21 @@ GLOSSARY.add("it-systems", [
     url: "https://blink.ucsd.edu/technology/network/connections/off-campus/VPN/index.html",
     verified: true,
   },
+  {
+    acronym: "ACT",
+    name: "Administrative Computing & Telecommunications",
+    group: "it",
+    description: "Former name of IT Services (ITS); it survives in the many campus web addresses that start with act.ucsd.edu.",
+    url: "https://blink.ucsd.edu/sponsor/blink/resources/aa.html",
+    verified: true,
+  },
+  {
+    acronym: "WTS",
+    name: "Workplace Technology Services",
+    group: "it",
+    parent: "IT Services",
+    description: "Former name of the ITS group behind the campus website system (CMS) and Blink, now Workplace Technology and Infrastructure Services (WTIS).",
+    url: "https://blink.ucsd.edu/technology/about/structure-governance/groups/wts.html",
+    verified: true,
+  },
 ]);

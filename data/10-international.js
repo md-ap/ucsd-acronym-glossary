@@ -286,4 +286,21 @@ GLOSSARY.add("international", [
     url: "https://iseo.ucsd.edu/student-services/maintaining-status/visa-terminology.html",
     verified: true,
   },
+  {
+    acronym: "I-Center",
+    name: "International Center",
+    group: "international",
+    description: "Former name of the campus international office (study abroad plus international student and scholar services); that work is now done by ISEO and Study Abroad.",
+    url: "https://global.ucsd.edu/",
+    verified: true,
+    note: "Not the same as I-House (International House), the residential community.",
+  },
+  {
+    acronym: "IFSO",
+    name: "International Faculty & Scholars Office",
+    group: "international",
+    description: "Former name of the office serving international scholars and faculty, now Scholar Services within ISEO.",
+    url: "https://iseo.ucsd.edu/scholar-services/index.html",
+    verified: true,
+  },
 ]);

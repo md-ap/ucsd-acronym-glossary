@@ -448,4 +448,13 @@ GLOSSARY.add("admissions", [
     verified: true,
     note: "Often abbreviated FWS (Federal Work-Study) elsewhere; UCSD pages simply say “work-study.” Jobs are posted on Handshake.",
   },
+  {
+    acronym: "SOAR",
+    name: "Student Outreach and Recruitment",
+    group: "admissions",
+    description: "Former name of the undergraduate outreach and recruiting office, now part of the Office of Undergraduate Admissions.",
+    url: "https://enrollmentmanagement.ucsd.edu/undergraduate-admissions/",
+    verified: true,
+    note: "In between it was the Office of Admissions and Relations with Schools.",
+  },
 ]);

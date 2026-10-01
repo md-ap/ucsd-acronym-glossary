@@ -13,6 +13,7 @@ window.GLOSSARY = {
         { id: "uc-governance", title: "Systemwide governance and offices" },
         { id: "uc-programs", title: "Systemwide programs and benefits" },
         { id: "uc-policy", title: "Policies and manuals" },
+        { id: "laws", title: "Federal and state laws" },
       ],
     },
     {
@@ -25,6 +26,8 @@ window.GLOSSARY = {
         { id: "senate", title: "Academic Senate" },
         { id: "offices", title: "Administrative offices" },
         { id: "titles", title: "Titles and roles" },
+        { id: "committees", title: "Committees and advisory boards" },
+        { id: "finance-hr", title: "Finance and HR terms" },
       ],
     },
     {
@@ -143,6 +146,8 @@ window.GLOSSARY = {
       groups: [
         { id: "research-units", title: "Institutes and centers" },
         { id: "research-admin", title: "Research administration" },
+        { id: "sponsors", title: "Sponsors and agencies" },
+        { id: "lab-safety", title: "Lab safety" },
       ],
     },
     {
@@ -155,6 +160,7 @@ window.GLOSSARY = {
         { id: "visarts-spaces", title: "Visual Arts spaces" },
         { id: "places", title: "Campus places and neighborhoods" },
         { id: "offcampus", title: "Health campus and off-campus" },
+        { id: "other-buildings", title: "Other building abbreviations" },
       ],
     },
   ],
