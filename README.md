@@ -16,9 +16,10 @@ newcomers don't have to guess.
 As of October 2026 it has 1,100 entries in 15 sections, collected from official UCSD and
 UC pages, including the useful part of Blink's own
 [Acronyms and Abbreviations](https://blink.ucsd.edu/sponsor/blink/resources/aa.html) list
-(checked against current pages, since that list still carries many retired names). Every entry has the acronym, its official name, a one-sentence
-explanation, and a link to the page that confirms it. Entries that could not be confirmed
-on an official page carry an "unverified" badge.
+(checked against current pages, since that list still carries many retired names). Every
+entry has the acronym, its official name, a one-sentence explanation, and a link to the
+page that confirms it. Entries that could not be confirmed on an official page carry an
+"unverified" badge.
 
 You can browse by section or A–Z, search by acronym or name, and link straight to a search
 with `?q=GEPA`.
