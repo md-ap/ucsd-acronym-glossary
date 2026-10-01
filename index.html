@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>UC San Diego Acronym Glossary (unofficial)</title>
+  <meta name="description"
+    content="Unofficial, community-maintained glossary of the acronyms used at UC San Diego: UC system, administration, schools, colleges, course codes, paperwork, services and buildings.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <header class="top">
+    <div class="top-inner">
+      <div class="brand">
+        <h1>UC San Diego Acronym Glossary</h1>
+        <p class="tagline">An unofficial, community-maintained guide to campus acronyms: from UC and
+          administration to course codes, paperwork, services and buildings.</p>
+      </div>
+      <div class="controls">
+        <div class="toggle" role="group" aria-label="View">
+          <button type="button" data-view="sections">By section</button>
+          <button type="button" data-view="az">A–Z</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="searchbar">
+    <div class="searchbar-inner">
+      <input id="search" type="search" autocomplete="off" spellcheck="false"
+        placeholder="Search an acronym or a name (e.g. VIS, GEPA, TA)…"
+        aria-label="Search an acronym or a name">
+      <span id="count" class="count" aria-live="polite"></span>
+    </div>
+  </div>
+
+  <div class="layout">
+    <nav id="toc" class="toc" aria-label="Sections"></nav>
+    <main id="results"></main>
+  </div>
+
+  <footer class="foot">
+    <p>Unofficial site made by students. Not affiliated with or endorsed by UC San Diego or the University of
+      California. Offices are renamed often: always confirm with the linked source.</p>
+    <p id="contribute"></p>
+  </footer>
+
+  <button id="to-top" class="to-top" type="button" aria-label="Back to top" title="Back to top" hidden>
+    <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" fill="none" stroke="currentColor"
+      stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 19V5M5 12l7-7 7 7" />
+    </svg>
+  </button>
+
+  <!-- Data: one file per section. To add a section, register it in
+       data/sections.js and add its file here. -->
+  <script src="data/sections.js"></script>
+  <script src="data/01-uc-system.js"></script>
+  <script src="data/02-campus-administration.js"></script>
+  <script src="data/03-schools-divisions.js"></script>
+  <script src="data/04-colleges.js"></script>
+  <script src="data/05-departments-subject-codes.js"></script>
+  <script src="data/06-degrees.js"></script>
+  <script src="data/07-enrollment.js"></script>
+  <script src="data/08-admissions-financial-aid.js"></script>
+  <script src="data/09-graduate-employment.js"></script>
+  <script src="data/10-international.js"></script>
+  <script src="data/11-student-services.js"></script>
+  <script src="data/12-campus-life.js"></script>
+  <script src="data/13-it-systems.js"></script>
+  <script src="data/14-research.js"></script>
+  <script src="data/15-buildings.js"></script>
+  <script src="app.js"></script>
+</body>
+
+</html>
