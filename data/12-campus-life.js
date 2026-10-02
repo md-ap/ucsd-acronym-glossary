@@ -290,4 +290,20 @@ GLOSSARY.add("campus-life", [
     url: "https://recreation.ucsd.edu/",
     verified: true,
   },
+  {
+    acronym: "GRH",
+    name: "Guaranteed Ride Home",
+    group: "housing-transport",
+    description: "Regional program that gives an emergency ride home to commuters who carpool, vanpool, bike, walk or take transit at least three times a week; you must register in advance.",
+    url: "https://iseo.ucsd.edu/resources/transportation.html",
+    verified: true,
+  },
+  {
+    acronym: "MAP",
+    name: "Motorist Assistance Program",
+    group: "housing-transport",
+    description: "Transportation Services program that helps drivers and cyclists on campus, including bicycle tire inflation.",
+    url: "https://transportation.ucsd.edu/micromobility/bicycling.html",
+    verified: true,
+  },
 ]);

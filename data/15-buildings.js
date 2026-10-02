@@ -1316,4 +1316,13 @@ GLOSSARY.add("buildings", [
     verified: true,
     note: "Blink's list uses the older wording Veterans Administration Medical Center.",
   },
+  {
+    acronym: "MCASD",
+    name: "Museum of Contemporary Art San Diego",
+    group: "offcampus",
+    description: "Independent contemporary art museum; it is transferring its downtown building at 1100 Kettner Blvd. to UC San Diego for a planned cultural center.",
+    url: "https://artsandhumanities.ucsd.edu/news-events/news.html",
+    verified: true,
+    note: "See The Depot, the name of the 1100 Kettner building.",
+  },
 ]);

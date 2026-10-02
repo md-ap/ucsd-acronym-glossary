@@ -13,7 +13,7 @@ newcomers don't have to guess.
 
 ## What's in it
 
-As of October 2026 it has 1,100 entries in 15 sections, collected from official UCSD and
+As of October 2026 it has more than 1,100 entries in 15 sections, collected from official UCSD and
 UC pages, including the useful part of Blink's own
 [Acronyms and Abbreviations](https://blink.ucsd.edu/sponsor/blink/resources/aa.html) list
 (checked against current pages, since that list still carries many retired names). Every

@@ -778,4 +778,21 @@ GLOSSARY.add("enrollment", [
     url: "https://awp.ucsd.edu/elwr/",
     verified: true,
   },
+  {
+    acronym: "JTCCER",
+    name: "Jane Teranes Climate Change Education Requirement",
+    group: "requirements",
+    description: "One approved one-quarter course on climate change, required for a bachelor's degree for students who entered as first-years in fall 2024 or later.",
+    url: "https://evc.ucsd.edu/mission-initiatives/partnering-with-the-academic-senate.html",
+    verified: true,
+  },
+  {
+    acronym: "AIRB",
+    name: "Academic Integrity Review Board",
+    group: "enrollment",
+    description: "The board that formally decides an academic integrity case when a student contests the allegation and the instructor does not withdraw it.",
+    url: "https://academicintegrity.ucsd.edu/about/reports-statistics.html",
+    verified: true,
+    note: "See AIO, the Academic Integrity Office.",
+  },
 ]);

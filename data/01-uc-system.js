@@ -402,4 +402,13 @@ GLOSSARY.add("uc-system", [
     verified: true,
     note: "California workplaces are regulated day to day by the state agency, Cal/OSHA.",
   },
+  {
+    acronym: "WSCUC",
+    name: "WASC Senior College and University Commission",
+    group: "uc-governance",
+    description: "The regional agency that accredits UC San Diego; new degree programs are screened against its rules.",
+    url: "https://grad.ucsd.edu/academics/degree-proposals/index.html",
+    verified: true,
+    note: "Often just called WASC.",
+  },
 ]);

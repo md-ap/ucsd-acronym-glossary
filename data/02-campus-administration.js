@@ -861,4 +861,20 @@ GLOSSARY.add("administration", [
     verified: true,
     note: "Also written RMP or VC-RMP.",
   },
+  {
+    acronym: "CUE",
+    name: "Council on Undergraduate Education",
+    group: "committees",
+    description: "Council of department vice chairs for education and undergraduate program directors, chaired by the Dean of Undergraduate Education.",
+    url: "https://undergrad.ucsd.edu/faculty-support/cue/council-members.html",
+    verified: true,
+  },
+  {
+    acronym: "UAAC",
+    name: "Undergraduate Academic Advising Council",
+    group: "committees",
+    description: "Campus council of undergraduate academic advisors; it also presents the yearly academic advising awards.",
+    url: "https://undergrad.ucsd.edu/advising/academic-advising-awards.html",
+    verified: true,
+  },
 ]);

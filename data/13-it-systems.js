@@ -337,4 +337,20 @@ GLOSSARY.add("it-systems", [
     url: "https://blink.ucsd.edu/technology/about/structure-governance/groups/wts.html",
     verified: true,
   },
+  {
+    acronym: "LMS",
+    name: "Learning Management System",
+    group: "it",
+    description: "Generic term for the platform that hosts course sites, grades and quizzes; at UC San Diego the official LMS is Canvas.",
+    url: "https://edtech.ucsd.edu/instructional-tools/canvas/index.html",
+    verified: true,
+  },
+  {
+    acronym: "OER",
+    name: "Open Educational Resources",
+    group: "it",
+    description: "Free, openly licensed textbooks and course materials that instructors can post or assign instead of paid ones.",
+    url: "https://edtech.ucsd.edu/instructional-tools/canvas/prepare.html",
+    verified: true,
+  },
 ]);
